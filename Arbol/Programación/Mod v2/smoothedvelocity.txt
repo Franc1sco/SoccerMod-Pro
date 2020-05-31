@@ -1,0 +1,27 @@
+"Games"
+{
+	"tf"
+	{
+		"Offsets"
+		{
+			"GetSmoothedVelocity"
+			{
+				"windows"	"139"
+				"linux"		"140"
+				"mac"		"140"
+			}
+		}
+	}
+	"csgo"
+	{
+		"Offsets"
+		{
+			"GetSmoothedVelocity"
+			{
+				"windows"	"139"
+				"linux"		"140"
+				"mac"		"140"
+			}
+		}
+	}
+}

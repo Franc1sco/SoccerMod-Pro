@@ -1,0 +1,9 @@
+la solución!!!
+
+https://forums.alliedmods.net/showthread.php?t=114586
+
+hay que borrar un if == para que a aliados también.
+
+
+
+AL FINAL ERA CUESTIÓN DE ACTIVAR EL MP_PLAYERID 0 Y DE PONERLE UN DELAY O UN IDLE, NO ME ACUERDO

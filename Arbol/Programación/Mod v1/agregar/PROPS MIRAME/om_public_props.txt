@@ -1,0 +1,23 @@
+"Props"
+{
+	"Vending Machine"
+	{
+			"model"			"models/props/cs_office/vending_machine.mdl"
+			"height"		"50"
+			"price"			"15"
+	}
+	"Sofa"
+	{
+			"model"			"models/props/cs_office/sofa.mdl"
+			"price"			"5"
+	}
+	"Book Shelf"
+	{
+			"model"			"models/props/cs_office/bookshelf1.mdl"
+	}
+	"Dryer Box"
+	{
+			"model"			"models/props/cs_assault/dryer_box.mdl"
+			"price"			"5"
+	}
+}

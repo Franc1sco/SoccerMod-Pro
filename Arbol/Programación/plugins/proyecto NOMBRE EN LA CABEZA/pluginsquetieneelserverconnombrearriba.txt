@@ -1,0 +1,71 @@
+No se obtienen puntos hasta que ambos equipos tengan jugadores.
+] sm plugins 
+ "Fun Commands" (1.5.0) by AlliedModders LLC
+ "SMAC Rcon Locker" (0.8.3.3) by SMAC Development Team
+ "Server Backup" (1.1.0) by Popoklopsi
+ "Sound Commands" (1.5.0) by AlliedModders LLC
+ "Nextmap" (1.5.0) by AlliedModders LLC
+ "gameME Plugin" (4.3) by TTS Oetzel & Goerz GmbH
+ "Player Respawn" (1.3) by Rogue
+ "AbNeR Bunny Hoping" (1.3) by AbNeR_CSS
+ "Admin File Reader" (1.5.0) by AlliedModders LLC
+ "Admin Menu" (1.5.0) by AlliedModders LLC
+To see more, type "sm plugins 11"
+] sm plugins 11
+CGameEventManager::AddListener: event 'hltv_changed_target' unknown.
+ "Client Preferences" (1.5.0) by AlliedModders LLC
+ "Basic Commands" (1.5.0) by AlliedModders LLC
+ "Basic Info Triggers" (1.5.0) by AlliedModders LLC
+ "Players Votes" (1.5.0) by The Resident, pZv!
+ "RandomCycle" (1.5.0) by AlliedModders LLC
+ "[Store] Inventory" (1.1-alpha) by alongub
+ "[Store] Equipment" (1.1-alpha) by alongub
+ "[Store] Backend" (1.1-alpha) by alongub
+ "[Store] Core" (1.1-alpha) by alongub
+ "[Store] Distributor" (1.1-alpha) by alongub
+ "[Store] Skins" (1.1-alpha) by alongub
+To see more, type "sm plugins 22"
+] sm plugins 22
+ "[Store] Logging" (1.1-alpha) by alongub
+ "[Store] Loadout" (1.1-alpha) by alongub
+ "[Store] Titles" (1.1-alpha) by alongub
+ "[Store] Refund" (1.1-alpha) by alongub
+ "[Store] Gifting" (1.1-alpha) by alongub
+ "[Store] Trails" (1.1-alpha) by alongub
+ "[Store] Shop" (1.1-alpha) by alongub
+ "[Battles] War Day" (1.0) by Ponska
+ "Ingame Map Download" (2.1.1) by Popoklopsi
+ "Basic Comm Control" (1.5.0) by AlliedModders LLC
+ "Connect Announce" (1.6) by Arg!
+To see more, type "sm plugins 33"
+] sm plugins 33
+ "CS:GO - Show The Right Next Map (STRNM)" (1.0.2) by PharaohsPaw
+ "Basic Votes" (1.5.0) by AlliedModders LLC
+ "spawntools7" (0.9) by meng
+ "Admin List" (1.0) by Samantha
+ "Resetscore" (1.1) by tuty
+ "SourceBans" (1.4.10) by SourceBans Development Team
+ "Map Nominations" (1.5.0) by AlliedModders LLC
+ "[Battles] Rastros Granadas" (1.3) by p0nsk4.
+ "Simple Chat Processor (Redux)" (1.1.5) by Simple Plugins, Mini
+ "MapChooser" (1.5.0) by AlliedModders LLC
+ "Fun Votes" (1.5.0) by AlliedModders LLC
+To see more, type "sm plugins 44"
+] sm plugins 44
+ "Anti-Flood" (1.5.0) by AlliedModders LLC
+ "Advertisements" (0.6) by Tsunami
+ "Killer Info Display" (1.4.1) by Berni, gH0sTy, Smurfy1982, Snake60
+ "SourceMod Anti-Cheat" (0.8.3.3) by SMAC Development Team
+ "[Battles] Token de Segurança SourceBans" (1.4) by Igor Tomiatti
+ "Basic Chat" (1.5.0) by AlliedModders LLC
+ "Map configs" (1.1.1) by Berni
+ "MOTD Battles" (0.2) by Igor Tomiatti
+ "Dice SM" (1.6) by Popoklopsi
+ "Player Commands" (1.5.0) by AlliedModders LLC
+ "Rock The Vote" (1.5.0) by AlliedModders LLC
+To see more, type "sm plugins 55"
+] sm plugins 55
+ "Admin Help" (1.5.0) by AlliedModders LLC
+ "NoBlock" (1.4.2) by Otstrel.ru Team
+ "Reserved Slots" (1.5.0) by AlliedModders LLC
+-

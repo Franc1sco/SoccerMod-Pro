@@ -1,0 +1,33 @@
+"Props"
+{
+	"Vending Machine"
+	{
+			"model"			"models/props/cs_office/vending_machine.mdl"
+			"height"		"50"
+			"price"			"0"
+	}
+	"Sofa"
+	{
+			"model"			"models/props/cs_office/sofa.mdl"
+			"price"			"0"
+	}
+	"Book Shelf"
+	{
+			"model"			"models/props/cs_office/bookshelf1.mdl"
+	}
+	"Dryer Box"
+	{
+			"model"			"models/props/cs_assault/dryer_box.mdl"
+			"price"			"0"
+	}
+	"Pelota"
+	{
+			"model"			"models/soccer_mod/viejas_pelotas/ball_2009_e2.mdl"
+			"price"			"0"
+	}
+	"Pelota2"
+	{
+			"model"			"models/soccer_mod/forlix_soccer/soccerball_1.mdl"
+			"price"			"0"
+	}
+}
